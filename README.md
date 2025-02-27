@@ -1,4 +1,13 @@
-# 🌐 .NET Core path
+# 🌐 .NET Core README
+
+## 📖 Table of Contents
+1. [What is .NET Core?](#-what-is-net-core)
+2. [Key Features of .NET Core](#-key-features-of-net-core)
+3. [Why Use .NET Core?](#-why-use-net-core)
+4. [Additional Resources](#-additional-resources)
+   - [Step-by-Step Guide to Setting Up .NET Core](dotnet_core_setup.md)
+
+---
 
 ## 🚀 What is .NET Core?
 .NET Core is a **free, open-source, cross-platform** framework developed by Microsoft for building modern applications. It supports a wide range of application types, including **web, desktop, cloud, IoT, and mobile**.
@@ -8,7 +17,7 @@
 ## 🔑 Key Features of .NET Core
 ✅ **Cross-Platform**: Runs on **Windows, Linux, and macOS**, enabling seamless application development across different operating systems.
 
-✅ **High Performance**: Well-suited for handling **large-scale and high-demand applications** like web APIs and enterprise solutions (ERPs).
+✅ **High Performance**: Well-suited for handling **large-scale and high-demand applications** like web APIs and enterprise solutions.
 
 ✅ **Modular & Lightweight**: Uses a **modular architecture**, allowing developers to include only the libraries they need, reducing application size.
 
@@ -29,5 +38,10 @@
 - 📱 A **mobile backend**
 - ☁️ A **cloud-native solution**
 
-.NET Core provides the **tools, performance, and ecosystem** needed for success. With its **strong community support**, it has become a **go-to choice for modern development**.
+.NET Core provides the **tools, performance, and ecosystem** needed for success. With its **strong community support**, it has become a **go-to choice for modern development**. 🚀
+
+---
+
+## 📘 Additional Resources
+- 📄 [Step-by-Step Guide to Setting Up .NET Core](dotnet_core_setup.md)
 
